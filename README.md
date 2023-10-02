@@ -1,4 +1,6 @@
-# IPL Fantasy Application - Screen Code in playipl/lib for .dart files
+# IPL Fantasy Application
+
+* Screen Code in playipl/lib/screens *
 
 This IPL Fantasy Application is a user-friendly and accessible platform for cricket enthusiasts who want to enjoy the excitement of the Indian Premier League (IPL) fantasy league without the complexities found in general sports fantasy applications. Developed using Flutter for the frontend and Firebase Cloud Backend, this application is specifically designed for a wide audience, including friends and families, providing an easy and intuitive way to experience the thrill of IPL fantasy cricket.
 
