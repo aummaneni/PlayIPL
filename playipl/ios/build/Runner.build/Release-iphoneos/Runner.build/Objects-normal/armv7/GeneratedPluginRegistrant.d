@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/aummaneni/Downloads/playipl/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/aummaneni/Downloads/playipl/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/aummaneni/Downloads/playipl/ios/build/Release-iphoneos/Flutter.framework/Modules/module.modulemap \
+  /Users/aummaneni/Downloads/playipl/ios/Pods/Firebase/CoreOnly/Sources/module.modulemap \
+  /Users/aummaneni/Downloads/playipl/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/aummaneni/Downloads/playipl/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/aummaneni/Downloads/playipl/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/aummaneni/Downloads/playipl/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/aummaneni/Downloads/playipl/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/aummaneni/Downloads/playipl/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/aummaneni/Downloads/playipl/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/aummaneni/Downloads/playipl/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/aummaneni/Downloads/playipl/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/aummaneni/Downloads/playipl/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/aummaneni/Downloads/playipl/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/aummaneni/Downloads/playipl/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/aummaneni/Downloads/playipl/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/aummaneni/Downloads/playipl/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/aummaneni/Downloads/playipl/ios/build/Release-iphoneos/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/aummaneni/Downloads/playipl/ios/build/Release-iphoneos/Flutter.framework/Headers/Flutter.h

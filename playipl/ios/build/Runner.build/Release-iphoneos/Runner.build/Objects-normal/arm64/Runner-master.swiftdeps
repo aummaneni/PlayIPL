@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "354d4a641a5bcb2fab7a7278509589377ad1ef3a11d81733a3d4dd9ea8a1726a"
+build_start_time: [1647539217, 569407939]
+build_end_time: [1647539220, 698786020]
+inputs:
+  "/Users/aummaneni/Downloads/playipl/ios/Runner/AppDelegate.swift": [1646278332, 0]

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "60043545481",
+    "project_id": "play-e526e",
+    "storage_bucket": "play-e526e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60043545481:android:be140a8471d11ee2c02f58",
+        "android_client_info": {
+          "package_name": "com.example.playipl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60043545481-um2mjo2aukolgeg3gsnv2kua6vkeero3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWzZ2qUTJnBINvvCrg-GwSNuSexcnPIO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60043545481-um2mjo2aukolgeg3gsnv2kua6vkeero3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "60043545481-2gk8h1nmejcq8385amf1ph7ambg2otru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.playipl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
